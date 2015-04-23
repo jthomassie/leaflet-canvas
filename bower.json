@@ -1,7 +1,15 @@
 {
   "name": "leaflet-canvas",
-  "version": "0.0.0",
   "homepage": "https://github.com/jthomassie/leaflet-canvas",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "_release": "37503e513a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "37503e513a47b5dd3cb52881d031b6c18eb63a87"
+  },
+  "_source": "git://github.com/jthomassie/leaflet-canvas.git",
+  "_target": "*",
+  "_originalSource": "jthomassie/leaflet-canvas"
 }
