@@ -1,5 +1,7 @@
 {
   "name": "leaflet-canvas",
   "version": "0.0.0",
-  "homepage": "https://github.com/jthomassie/leaflet-canvas"
+  "homepage": "https://github.com/jthomassie/leaflet-canvas",
+  "dependencies": {},
+  "devDependencies": {}
 }
